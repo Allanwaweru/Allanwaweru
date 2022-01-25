@@ -2,7 +2,6 @@
   <img width="460" height="460" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif">
 </p>
 
-### <div align="center">I am Allan Waweru, a student at The University of Georgia majoring in Data Science.</div>  
   
 
 - 🌍 “Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” —turtle dude from Kung Fu Panda”  
@@ -14,7 +13,7 @@
 - ❓ Ask me about anything related to Formula 1/NBA🏎️🏀  
   
 
-- ⚡ Fun not so fun fact: Being an only child has made me very adaptable-can turn anything into something for fun🌚  
+- ⚡ Fun not so fun fact: Being an only child has made me very adaptable-can turn nothing into something just for fun🌚  
   
 
 <br/>  
