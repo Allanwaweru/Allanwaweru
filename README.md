@@ -53,10 +53,9 @@ Allan Waweru
 <br/>  
 
 
-## Recent Blog Posts  
 
 
-### Recent Blog post  
+### 📝 My Latest Blog Post in Medium
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0" alt="Recent Article 0"> 
 
 
