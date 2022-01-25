@@ -4,7 +4,7 @@
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Allanwaweru/)](https://github.com/Allanwaweru/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-waweru/)](https://www.linkedin.com/in/allan-waweru/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)&link=https://medium.com/@allan.n.waweru)](https://medium.com/@allan.n.waweru)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@allan.n.waweru)](https://medium.com/@allan.n.waweru)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.n.waweru@gmail.com)](mailto:allan.n.waweru@gmail.com)
 
 
