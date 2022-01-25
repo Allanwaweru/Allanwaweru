@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif">
+  <img width="460" height="460" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif">
 </p>
 
 ### <div align="center">I am Allan Waweru, a student at The University of Georgia majoring in Data Science.</div>  
