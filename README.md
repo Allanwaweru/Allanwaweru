@@ -20,7 +20,7 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.vit.ac.in)** pursuing a bachel
 
 - 🔭 I’m currently working on NLP Project
 - 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
+<img width="300" height="300" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
 
 
   - 🌍“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” —turtle dude from Kung Fu Panda
