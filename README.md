@@ -1,6 +1,4 @@
-<div align="center">
-<img src="<div class="tenor-gif-embed" data-postid="21874265" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/oogway-saying-oogway-yesterday-is-history-tomorrow-is-a-mystery-but-today-is-a-gift-gif-21874265">Oogway Saying Yesterday Is History GIF</a>from <a href="https://tenor.com/search/oogway+saying-gifs">Oogway Saying GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-" align="center" style="width: 100%" />
+<div ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 </div>  
   
 
