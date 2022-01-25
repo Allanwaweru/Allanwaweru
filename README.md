@@ -20,19 +20,24 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.vit.ac.in)** pursuing a bachel
 
 - 🔭 I’m currently working on NLP Project
 - 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+<img width="490" height="270" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+
+  - 🌍“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” —turtle dude from Kung Fu Panda
+
+  -  🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
+  - ❓ Ask me about anything related to Formula 1🏎
+  - ⚡ Fun not so fun fact: Being an only child has made me very adaptable-can turn nothing into something just for fun🌚  
+  
+  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
+  - 📝 technical blogs and articles
   - 🤖 Robotics
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, Raspi
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+  
+  📙 Check out my [Resume](https://www.linkedin.com/in/allan-waweru/)
+
+
 
 <p align="center">
   <img width="200" height="200" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif">
