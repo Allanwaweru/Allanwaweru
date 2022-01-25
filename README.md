@@ -12,11 +12,10 @@
 
 
 
-
-  - 🌍“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” —turtle dude from Kung Fu Panda
-  <p align="center">
+<p align="center">
   <img width="100" height="100" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif">
 </p>
+  - 🌍“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” —turtle dude from Kung Fu Panda
 
   -  🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
   
