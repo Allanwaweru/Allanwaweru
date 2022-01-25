@@ -29,6 +29,8 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.vit.ac.in)** pursuing a bachel
   - ❓ Ask me about anything related to Formula 1🏎
   - ⚡ Fun not so fun fact: Being an only child has made me very adaptable-can turn nothing into something just for fun🌚  
   
+   <br/> 
+   
   - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
@@ -38,16 +40,6 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.vit.ac.in)** pursuing a bachel
   📙 Check out my [Resume](https://www.linkedin.com/in/allan-waweru/)
 
 
-
-<p align="center">
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif">
-</p>
-  - 🌍“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” —turtle dude from Kung Fu Panda
-
-  -  🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
-  - ❓ Ask me about anything related to Formula 1🏎
-  - ⚡ Fun not so fun fact: Being an only child has made me very adaptable-can turn nothing into something just for fun🌚  
-  
 
 <br/>  
 
