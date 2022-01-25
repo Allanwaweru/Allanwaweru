@@ -55,9 +55,9 @@
 
 
 ### Recent Blog post  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@allanwaweru/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@allanwaweru/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0" alt="Recent Article 0"> 
 
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
 
 <br/>  
 
