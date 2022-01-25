@@ -1,4 +1,4 @@
- <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
+ <img src="https://i.giphy.com/YTPVFEsHlVyDBIW24g.gif
 "/>
 
 ### <div align="center">I am Allan Waweru, a student at The University of Georgia majoring in Data Science.</div>  
