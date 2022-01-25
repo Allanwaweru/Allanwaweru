@@ -26,7 +26,7 @@
   <img width="100" height="100" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif">
 </p>
 
-  -  🔍 I’m currently working on earning the Data Analytics Certificate offered by Google  
+  -  🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
   
   - ❓ Ask me about anything related to Formula 1/NBA🏎️🏀  
   
@@ -37,9 +37,8 @@
 
 ### 📝 My Latest Blog Post in Medium
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0" alt="Recent Article 0"> 
- 
- <br/>  
-
+  
+<br/> 
 
 ### Languages and Tools  
 <div align="center">  
@@ -53,17 +52,6 @@
 </div>  
 
 <br/>  
-
-
-
-<br/>  
-
-
-
-
-### 📝 My Latest Blog Post in Medium
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0" alt="Recent Article 0"> 
-
 
 
 <br/>  
