@@ -1,4 +1,5 @@
-# Allan Waweru
+![Hey there, I'm Allan Waweru. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Allanwaweru/Allanwaweru/raw/master/bio.gif)
+
 
 <br/>  
 
