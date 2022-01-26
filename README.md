@@ -42,8 +42,8 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 
  ### Latest Projects
  <!-- Its main projects -->
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Allanwaweru/NBA-Salary-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allanwaweru&repo=NBA-Salary-Prediction &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
