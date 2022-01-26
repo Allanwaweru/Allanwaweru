@@ -41,8 +41,8 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 <br/> 
 
  ### Latest Projects
- <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
+ <a href="https://github.com/Allanwaweru/NBA-Salary-Prediction" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allanwaweru&repo=NBA-Salary-Prediction&theme=dracula" />
 </a>
 <a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
