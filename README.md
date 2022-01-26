@@ -11,20 +11,18 @@
  <br/>  
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@UGA](https://www.vit.ac.in)** pursuing a bachelors in Data Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degrees/data-science-bs)** pursuing a bachelors in Data Science. I am a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
+  <br/> 
+   
 
-
+ - 🌍“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” —turtle dude from Kung Fu Panda
+<img width="300" height="300" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java ☕
-<img width="300" height="300" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
-
-
-  - 🌍“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” —turtle dude from Kung Fu Panda
-
+  - 🔭 I’m currently working on NLP Project
+  - 🌱 I’m currently learning Java ☕
   -  🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
   - ❓ Ask me about anything related to Formula 1🏎
   - ⚡ Fun not so fun fact: Being an only child has made me very adaptable-can turn nothing into something just for fun🌚  
