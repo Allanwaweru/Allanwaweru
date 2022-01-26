@@ -20,7 +20,7 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 
   - 🌱 I am currently learning Java ☕
   - 🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
-  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+ - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
     - 📊 Machine Learning & Data Science
     - 🖼 Computer Vision
     - 📝 technical blogs and articles
