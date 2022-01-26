@@ -6,13 +6,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-waweru/)](https://www.linkedin.com/in/allan-waweru/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@allan.n.waweru)](https://medium.com/@allan.n.waweru)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.n.waweru@gmail.com)](mailto:allan.n.waweru@gmail.com) 
-
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degrees/data-science-bs)** pursuing a bachelors in Data Science. I am a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 >“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” -turtle dude from Kung Fu Panda 
  
-
+<br/> 
 
 ## ⚡️ A Few Quick Facts
 <img width="300" height="300" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
