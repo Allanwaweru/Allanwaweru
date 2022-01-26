@@ -18,25 +18,25 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 
  #### 🌍“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” —turtle dude from Kung Fu Panda 
  
+ 
  <img width="200" height="200" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
 
 
 
 ## ⚡️ A Few Quick Facts
 
-  - 🔭 I’m currently working on NLP Project
-  - 🌱 I’m currently learning Java ☕
-  -  🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
-  - ❓ Ask me about anything related to Formula 1🏎
-  - ⚡ Fun not so fun fact: Being an only child has made me very adaptable-can turn nothing into something just for fun🌚  
+  - 🌱 I am currently learning Java ☕
+  - 🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
+  - 🎉 Fun-Fact: I ❤️ Formula 1🏎 and have watched all lot Christopher Nolan's Movies🎬
+  - 🌚 Not so fun fact: Being an only child has made me very adaptable🌚 
   
    <br/> 
    
   - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 📝 technical blogs and articles
-  - 🤖 Robotics
+   - 📊 Machine Learning & Data Science
+   - 🖼 Computer Vision
+   - 📝 technical blogs and articles
+  
   
   📙 Check out my [Resume](https://www.linkedin.com/in/allan-waweru/)
 
@@ -62,6 +62,15 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 
 <br/>  
 
+ <!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
+  </a>
+  <a href="https://github.com/onimur/circleci-github-changelog-generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+  </a>
+</p>
 
 <br/>  
 
@@ -70,6 +79,8 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Allanwaweru&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+ 
+ 
 
 
 <br/>  
