@@ -1,6 +1,5 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/Defcon27">Allan</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
-
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Allanwaweru/)](https://github.com/Allanwaweru/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-waweru/)](https://www.linkedin.com/in/allan-waweru/)
@@ -10,7 +9,7 @@
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degrees/data-science-bs)** pursuing a bachelors in Data Science. I am a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
->“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.”-turtle dude from Kung Fu Panda 
+>“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” -turtle dude from Kung Fu Panda 
  
  
  <img width="200" height="200" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
