@@ -11,6 +11,7 @@
 I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degrees/data-science-bs)** pursuing a bachelors in Data Science. I am a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 > 🌍“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.”
+                                                                            
                                                                             —turtle dude from Kung Fu Panda 
  
  
