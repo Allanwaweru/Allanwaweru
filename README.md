@@ -49,8 +49,6 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 </a>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-</div>
 
   
  <br/> 
