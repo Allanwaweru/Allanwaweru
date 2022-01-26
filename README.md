@@ -11,11 +11,12 @@
 I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degrees/data-science-bs)** pursuing a bachelors in Data Science. I am a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 >“Tomorrow is a mystery, yesterday is history, and today is a gift. That is why they call it the present.” -turtle dude from Kung Fu Panda 
- <img width="200" height="200" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
-
+ 
 
 
 ## ⚡️ A Few Quick Facts
+<img width="200" height="200" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
+
 
   - 🌱 I am currently learning Java ☕
   - 🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
