@@ -15,7 +15,7 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 
 
 ## ⚡️ A Few Quick Facts
-<img width="320" height="320" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
+<img width="300" height="300" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
 
 
   - 🌱 I am currently learning Java ☕
@@ -29,12 +29,6 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
   - 🌚 Not so fun fact: Being an only child has made me very adaptable🌚 
   
    <br/> 
-   
-  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-   - 📊 Machine Learning & Data Science
-   - 🖼 Computer Vision
-   - 📝 technical blogs and articles
-  
   
   📙 Check out my [Resume](https://www.linkedin.com/in/allan-waweru/)
 
