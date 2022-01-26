@@ -5,10 +5,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Allanwaweru/)](https://github.com/Allanwaweru/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-waweru/)](https://www.linkedin.com/in/allan-waweru/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@allan.n.waweru)](https://medium.com/@allan.n.waweru)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.n.waweru@gmail.com)](mailto:allan.n.waweru@gmail.com)
-
-
- <br/>  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.n.waweru@gmail.com)](mailto:allan.n.waweru@gmail.com) 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degrees/data-science-bs)** pursuing a bachelors in Data Science. I am a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
@@ -62,6 +59,8 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 
 <br/>  
 
+ 
+ ### Latest Projects
  <!-- Its main projects -->
 <p align="center">
   <a href="https://github.com/onimur/handle-path-oz">
