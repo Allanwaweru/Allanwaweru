@@ -34,7 +34,7 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 
 <br/>  
 
-### 📝 My Latest Blog Post in Medium
+### 📝 My Latest Blog Post on Medium
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0" alt="Recent Article 0"> 
   
 <br/> 
