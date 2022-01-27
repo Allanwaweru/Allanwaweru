@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/Defcon27">Allan</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">Hi!, I am <a href="https://github.com/Defcon27">Allan</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
 ### 📬 Find me at
@@ -17,14 +17,14 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 <img width="300" height="300" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
 
 - 🌱 I am currently learning Java ☕
-- 🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
+- 🔍 I am working on earning the Data Analytics Certificate offered by Google  
  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
     - 📊 Machine Learning & Data Science
-    - 🖼 Computer Vision
+    - 🖼 Tableau visualizations
     - 📝 technical blogs and articles
    
- - 🎉 Fun-Fact: I ❤️ Formula 1🏎 and have watched all of Christopher Nolan's Movies🎬
- - 🌚 Not so fun fact: Being an only child has made me very adaptable🌚 
+ - 🎉 Fun-Fact: I really ❤️ Formula 1🏎 and have watched all of Christopher Nolan's Movies🎬
+ - 🌚 Not so fun fact: Being an only child has made me very adaptable
   
    <br/> 
   
