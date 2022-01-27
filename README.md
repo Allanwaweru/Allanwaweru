@@ -14,8 +14,6 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
 <br/> 
 
 ## ⚡️ A Few Quick Facts
-<img width="300" height="300" src="https://user-images.githubusercontent.com/94552522/151001623-05932ba3-45e6-4f0a-9df5-edeb5317da6d.gif" align=right>
-
 
   - 🌱 I am currently learning Java ☕
   - 🔍 I am currently working on earning the Data Analytics Certificate offered by Google  
