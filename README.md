@@ -28,7 +28,7 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
   
    <br/> 
   
-  📙 Check out my [Resume](https://allanwaweru.github.io/resume/)
+  📙 Check out my [Resume](https://www.linkedin.com/in/allan-waweru/overlay/1635539102316/single-media-viewer/?profileId=ACoAADN1kM8BEGcQHGTAxuwqJqaI0zfbZTf5ioU)
 
 
 
