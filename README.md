@@ -24,7 +24,7 @@ I'm an **Undergrad Student🎓 [@UGA](https://www.franklin.uga.edu/majors-degree
     - 📝 technical blogs and articles
    
  - 🎉 Fun-Fact: I really ❤️ Formula 1🏎 and have watched all Christopher Nolan's Movies🎬
- - 🌚 Not so fun fact: Being an only child has made me very adaptable
+ 
   
    <br/> 
   
